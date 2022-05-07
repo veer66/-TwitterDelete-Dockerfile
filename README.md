@@ -1,2 +1,2 @@
-# -TwitterDelete-Dockerfile
+# TwitterDelete-Dockerfile
 A Dockerfile for TwitterDelete
